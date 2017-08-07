@@ -1,0 +1,26 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ups_battery_service", "ups_battery_service\ups_battery_service.csproj", "{70AA2F39-BE93-4EF7-9C54-C9E23797B796}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{04A1685A-A44D-460D-A0EB-466E99E5153C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70AA2F39-BE93-4EF7-9C54-C9E23797B796}.Debug|x86.ActiveCfg = Debug|x86
+		{70AA2F39-BE93-4EF7-9C54-C9E23797B796}.Debug|x86.Build.0 = Debug|x86
+		{70AA2F39-BE93-4EF7-9C54-C9E23797B796}.Release|x86.ActiveCfg = Release|x86
+		{70AA2F39-BE93-4EF7-9C54-C9E23797B796}.Release|x86.Build.0 = Release|x86
+		{04A1685A-A44D-460D-A0EB-466E99E5153C}.Debug|x86.ActiveCfg = Debug
+		{04A1685A-A44D-460D-A0EB-466E99E5153C}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
